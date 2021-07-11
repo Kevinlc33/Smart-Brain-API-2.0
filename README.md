@@ -2,6 +2,8 @@
 
 Smart-Brain-API-2.0 is a dockerized version of Smart-Brain-API that now includes Redis, token authorization, and PLpgSQL data. This version is designed to get a new-developer up and running as quickly as possible.
 
+This API works in conjunction with https://github.com/Kevinlc33/Smart-Brain-2.0
+
 
 1. Clone this repo
 
@@ -17,3 +19,5 @@ Smart-Brain-API-2.0 is a dockerized version of Smart-Brain-API that now includes
 6. You will also need to update Line 22 in server.js to your client app port (i.e. 3001)
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
+
+7. Set up the front-end using this repo: https://github.com/Kevinlc33/Smart-Brain-2.0
