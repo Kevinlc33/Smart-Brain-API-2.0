@@ -1,5 +1,8 @@
 # Smart-Brain-API
 
+Smart-Brain-API-2.0 is a dockerized version of Smart-Brain-API that now includes Redis, token authorization, and PLpgSQL data. This version is designed to get a new-developer up and running as quickly as possible.
+
+
 1. Clone this repo
 
 2. run `npm install`
